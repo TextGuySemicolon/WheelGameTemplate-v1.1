@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 971566e0d9518244abe0a22a3c24497a, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  wheelDataList:
+  - {fileID: 11400000, guid: 1d2aded4dd026f7408ca3a681cea885a, type: 2}
+  - {fileID: 11400000, guid: ae5ddd1c8dd130c49b4b0d0d8476e1e2, type: 2}
+  - {fileID: 11400000, guid: 264493e57623615478089a2cfe4d10e5, type: 2}
+  - {fileID: 11400000, guid: 68424b634f365a84ebf098ddce79fb25, type: 2}
+  - {fileID: 11400000, guid: 8138fe9efa229ff45ac4852918a92346, type: 2}
+  - {fileID: 11400000, guid: 8f7a74aa35622f842b08372e901f16f6, type: 2}
+  - {fileID: 11400000, guid: 8a71166c2d2280f4ab5f16e650201562, type: 2}
+  - {fileID: 11400000, guid: ba73277cf704a42448d3970b0237657b, type: 2}
+  sectorSprite:
+  - {fileID: 21300000, guid: b3159d39ad8dec1429feec56f8f2fca3, type: 3}
+  - {fileID: 21300000, guid: 7ed2dbb8c48b18949b812ddcc2a16d4e, type: 3}
+  defaultColor:
+  - {r: 0.3254902, g: 0.2, b: 0.40784314, a: 1}
+  - {r: 1, g: 0.9411765, b: 0.8627451, a: 2.1124226e+20}

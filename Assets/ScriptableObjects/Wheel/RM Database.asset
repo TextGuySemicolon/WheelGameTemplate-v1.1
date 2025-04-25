@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 971566e0d9518244abe0a22a3c24497a, type: 3}
+  m_Name: RM Database
+  m_EditorClassIdentifier: 
+  wheelDataList:
+  - {fileID: 11400000, guid: c9d55cd165bf10649a3d0b041e567ecf, type: 2}
+  - {fileID: 11400000, guid: c9d55cd165bf10649a3d0b041e567ecf, type: 2}
+  - {fileID: 11400000, guid: d9808677b7eab6c4a9b26113a7e09f2b, type: 2}
+  - {fileID: 11400000, guid: c9d55cd165bf10649a3d0b041e567ecf, type: 2}
+  - {fileID: 11400000, guid: a568767e6558da94f8e8b54d08020024, type: 2}
+  - {fileID: 11400000, guid: c9d55cd165bf10649a3d0b041e567ecf, type: 2}
+  - {fileID: 11400000, guid: a568767e6558da94f8e8b54d08020024, type: 2}
+  - {fileID: 11400000, guid: c9d55cd165bf10649a3d0b041e567ecf, type: 2}
+  - {fileID: 11400000, guid: c9d55cd165bf10649a3d0b041e567ecf, type: 2}
+  - {fileID: 11400000, guid: 78ad091a05ccd674e9c88df6a452cd96, type: 2}
+  sectorSprite:
+  - {fileID: -2413806693520163455, guid: ebe73ca9363db456bacf42c025bb4847, type: 3}
+  defaultColor: []
+  useItemColors: 1
+  useRamdomPositions: 0
+  spinType: 1
